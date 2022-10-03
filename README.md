@@ -1,6 +1,10 @@
 # Facebook-auto-login
 Facebook auto login using python with selenium
 
+👉Auto Login To Facebook Using Python
+
+https://youtu.be/kc7DyicjF_4
+
 change 10,12 & in code with phone no and password of facebook
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter fb.py
