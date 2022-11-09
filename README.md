@@ -1,11 +1,7 @@
 # Facebook-auto-login
-Facebook auto login using python with selenium
+Facebook auto account create using python with selenium
 
-👉Auto Login To Facebook Using Python
-
-https://youtu.be/kc7DyicjF_4
-
-change 10,12 & in code with phone no and password of facebook
+change 122 & 126 line with ph/email what used in 122 line was again put that in 126 line....
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd  on that particular folder and enter fb.py or double click on fb.py file...
 
