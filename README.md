@@ -5,6 +5,12 @@ change 122 & 126 line with ph/email what used in 122 line was again put that in 
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd  on that particular folder and enter fb.py or double click on fb.py file...
 
+open cmd and enter
+
+pip install random
+
+hit enter button
+
 👉Note:-
 
 👉if your selenium version is in latest version then 
