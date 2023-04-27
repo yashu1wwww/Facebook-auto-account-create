@@ -1,7 +1,8 @@
 # Facebook-auto-login
 Facebook auto account create using python with selenium
 
-After two or more compilations of bots, watch these videos:
+After two or more compilations of bots, watch these videos
+
 https://youtu.be/c9MAJpax5R0
 
 Change the email/phone number used in line 122 and 126. The email/phone number used in line 122 should not be repeated in line 126.
