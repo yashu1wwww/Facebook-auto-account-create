@@ -154,6 +154,8 @@ driver.find_element_by_xpath('/html/body/div[3]/div[2]/div/div/div[2]/div/div/di
 
 time.sleep(30)
 
+#note down the email(ph.no) and password..
+
 #after it will ask code enter thats it....
 
 
