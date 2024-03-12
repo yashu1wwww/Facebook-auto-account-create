@@ -1,4 +1,5 @@
-# Facebook-auto-login
+# Facebook-auto-account-create
+
 Facebook auto account create using python with selenium
 
 Change the email/phone number used in line 122 and 126. The email/phone number used in line 122 should not be repeated in line 126.
